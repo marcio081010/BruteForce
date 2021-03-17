@@ -12,4 +12,14 @@
 
 ✔️ Wifi Brute Force
 
+## Requeriments:
+
+🌟 validate_email
+
+🌟 pywifi
+
+🌟 colored
+
+🌟 pywifi
+
 🕷xX$%*By: Marcio Vinicius*%$Xx🕷
